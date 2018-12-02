@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^feed/?$ /posts/index.xml [NC,R=301,L]
+
+ErrorDocument 404 /404.html
+
+RewriteCond %{SERVER_PORT} !443
+RewriteRule (.*)$ https://blog.liwde.de/$1 [L,R=301]

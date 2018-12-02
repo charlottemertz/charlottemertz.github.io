@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilder on Charlotte Mertz</title>
+    <link>https://blog.liwde.de/categories/bilder/</link>
+    <description>Recent content in Bilder on Charlotte Mertz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.liwde.de/categories/bilder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sommer</title>
+      <link>https://blog.liwde.de/posts/2018/sommer/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.liwde.de/posts/2018/sommer/</guid>
+      <description>&lt;p&gt;Dies ist ein kleiner photografischer Ausschnitt vergangener Sommergefühle:
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

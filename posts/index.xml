@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Posts · Charlotte Mertz</title>
+  <link href="https://blog.liwde.de/posts/index.xml" rel="self"/>
+  <link href="https://blog.liwde.de/posts/"/>
+  <updated>2018-12-01T00:00:00+00:00</updated>
+  <id>https://blog.liwde.de/posts/</id>
+  <author>
+    <name>Charlotte Mertz</name>
+  </author>
+  <entry>
+    <title type="html"><![CDATA[Vocal Arrangement und Vocal Recording]]></title>
+    <link href="https://blog.liwde.de/posts/2018/running/"/>
+    <id>https://blog.liwde.de/posts/2018/running/</id>
+    <author>
+      <name>Charlotte Mertz</name>
+    </author>
+    <published>2018-12-01T00:00:00+00:00</published>
+    <updated>2018-12-01T00:00:00+00:00</updated>
+    <content type="html">&lt;em&gt;Running Up That Hill von Kate Bush&lt;/em&gt;&lt;br /&gt;&lt;p&gt;Im Wintersemester 2017/18 belegte ich die kombinierten Seminare &amp;quot;Vocal Arrangement&amp;quot; und &amp;quot;Vocal Recording&amp;quot;.
+Aufgabe war es, ein Stück unserer Wahl für ein Vokalensemble zu arrangieren, es mit diesem einzuüben und letztlich
+aufzunehmen.&lt;/p&gt;
+
+&lt;p&gt;Ich wählte Kate Bushs &amp;quot;Running Up That Hill&amp;quot;. Das Original findet sich
+&lt;a href=&#34;https://www.youtube.com/watch?v=wp43OdtAAkM&#34; target=&#34;_blank&#34;&gt;hier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meine Bearbeitung und auch die Aufnahme sind bei weitem nicht perfekt, aber dennoch teile ich gerne dieses Resultat mit Euch:
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;figcaption&gt;Running Up That Hill von Kate Bush (Arrangement: Charlotte Mertz)&lt;/figcaption&gt;
+    &lt;audio
+        controls
+        src=&#34;https://blog.liwde.de/posts/2018/running/running_up_that_hill.mp3&#34;&gt;
+            Your browser does not support the
+            &lt;code&gt;audio&lt;/code&gt; element.
+    &lt;/audio&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Vielen Dank allen Sängerinnen und Sängern, die mir bei diesem Projekt geholfen haben!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Sommer]]></title>
+    <link href="https://blog.liwde.de/posts/2018/sommer/"/>
+    <id>https://blog.liwde.de/posts/2018/sommer/</id>
+    <author>
+      <name>Charlotte Mertz</name>
+    </author>
+    <published>2018-11-30T00:00:00+00:00</published>
+    <updated>2018-11-30T00:00:00+00:00</updated>
+    <content type="html">&lt;img class="webfeedsFeaturedVisual" src="https://blog.liwde.de/posts/2018/sommer/IMG_3922_hu459b1a093de4bf7d8249eae464a94c9f_4439125_720x320_fill_q75_box_smart1.JPG" /&gt;&lt;p&gt;Dies ist ein kleiner photografischer Ausschnitt vergangener Sommergefühle:
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title type="html"><![CDATA[Das Piano]]></title>
+    <link href="https://blog.liwde.de/posts/2014/das-piano/"/>
+    <id>https://blog.liwde.de/posts/2014/das-piano/</id>
+    <author>
+      <name>Charlotte Mertz</name>
+    </author>
+    <published>2014-11-08T00:00:00+00:00</published>
+    <updated>2014-11-08T00:00:00+00:00</updated>
+    <content type="html">&lt;em&gt;Ein neuseeländischer Film genauer betrachtet&lt;/em&gt;&lt;br /&gt;&lt;img class="webfeedsFeaturedVisual" src="https://blog.liwde.de/posts/2014/das-piano/piano_hu0ec03725f59e3915dd945bde10036dc4_430216_720x320_fill_q75_box_smart1.jpg" /&gt;&lt;p&gt;&lt;strong&gt;Vorsicht, Spoiler!&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
