@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charlotte Mertz</title>
-    <link>https://blog.liwde.de/</link>
+    <link>https://charlottemertz.github.io/</link>
     <description>Recent content on Charlotte Mertz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.liwde.de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charlottemertz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Vocal Arrangement und Vocal Recording</title>
-      <link>https://blog.liwde.de/posts/2018/running/</link>
+      <link>https://charlottemertz.github.io/posts/2018/running/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/posts/2018/running/</guid>
+      <guid>https://charlottemertz.github.io/posts/2018/running/</guid>
       <description>Im Wintersemester 2017/18 belegte ich die kombinierten Seminare &amp;quot;Vocal Arrangement&amp;quot; und &amp;quot;Vocal Recording&amp;quot;. Aufgabe war es, ein Stück unserer Wahl für ein Vokalensemble zu arrangieren, es mit diesem einzuüben und letztlich aufzunehmen.
 Ich wählte Kate Bushs &amp;quot;Running Up That Hill&amp;quot;. Das Original findet sich hier.
 Meine Bearbeitung und auch die Aufnahme sind bei weitem nicht perfekt, aber dennoch teile ich gerne dieses Resultat mit Euch:  Running Up That Hill von Kate Bush (Arrangement: Charlotte Mertz) Your browser does not support the audio element.</description>
@@ -24,20 +24,20 @@ Meine Bearbeitung und auch die Aufnahme sind bei weitem nicht perfekt, aber denn
     
     <item>
       <title>Sommer</title>
-      <link>https://blog.liwde.de/posts/2018/sommer/</link>
+      <link>https://charlottemertz.github.io/posts/2018/sommer/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/posts/2018/sommer/</guid>
+      <guid>https://charlottemertz.github.io/posts/2018/sommer/</guid>
       <description>&lt;p&gt;Dies ist ein kleiner photografischer Ausschnitt vergangener Sommergefühle:
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Das Piano</title>
-      <link>https://blog.liwde.de/posts/2014/das-piano/</link>
+      <link>https://charlottemertz.github.io/posts/2014/das-piano/</link>
       <pubDate>Sat, 08 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/posts/2014/das-piano/</guid>
+      <guid>https://charlottemertz.github.io/posts/2014/das-piano/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Vorsicht, Spoiler!&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -45,19 +45,19 @@ Meine Bearbeitung und auch die Aufnahme sind bei weitem nicht perfekt, aber denn
     
     <item>
       <title>Der Schöne und das Biest</title>
-      <link>https://blog.liwde.de/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</link>
+      <link>https://charlottemertz.github.io/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</guid>
+      <guid>https://charlottemertz.github.io/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</guid>
       <description>Eine Fortsetzungsgeschichte</description>
     </item>
     
     <item>
       <title>Impressum und Datenschutzerklärung</title>
-      <link>https://blog.liwde.de/meta/impressum/</link>
+      <link>https://charlottemertz.github.io/meta/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/meta/impressum/</guid>
+      <guid>https://charlottemertz.github.io/meta/impressum/</guid>
       <description>Verantwortlich gemäß §5 TMG
 Charlotte Mertz
 Ursulastraße 29
@@ -68,10 +68,10 @@ Haftungsausschluss Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 
     
     <item>
       <title>Suche</title>
-      <link>https://blog.liwde.de/meta/search/</link>
+      <link>https://charlottemertz.github.io/meta/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/meta/search/</guid>
+      <guid>https://charlottemertz.github.io/meta/search/</guid>
       <description> Suchanfrage: Suchergebnisse  ${title} ${ isset subtitle }
 ${subtitle}${ end } ${ isset categories }
 ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
@@ -80,10 +80,10 @@ ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
     
     <item>
       <title>Theme-Test</title>
-      <link>https://blog.liwde.de/meta/themetest/</link>
+      <link>https://charlottemertz.github.io/meta/themetest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/meta/themetest/</guid>
+      <guid>https://charlottemertz.github.io/meta/themetest/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Diese Seite ist, wie das Theme selbst, Work in Progress!&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -147,10 +147,10 @@ ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
     
     <item>
       <title>Über</title>
-      <link>https://blog.liwde.de/meta/about/</link>
+      <link>https://charlottemertz.github.io/meta/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/meta/about/</guid>
+      <guid>https://charlottemertz.github.io/meta/about/</guid>
       <description>Charlotte Mertz Köln Studentin Studentische Hilfskraft beim WDR  
 Ausbildung  B.A. Lehramt Musik und Englisch Gym/Ge seit 2016 an der Universität Köln B.A. Lehramt Musik und Englisch GS 2 Semester
 an der Universität Koblenz-Landau, Campus Koblenz Abitur Landesmusikgymnasium Montabaur

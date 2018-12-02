@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Charlotte Mertz</title>
-    <link>https://blog.liwde.de/series/</link>
+    <link>https://charlottemertz.github.io/series/</link>
     <description>Recent content in Series on Charlotte Mertz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://blog.liwde.de/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charlottemertz.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Der Schöne und das Biest</title>
-      <link>https://blog.liwde.de/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</link>
+      <link>https://charlottemertz.github.io/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.liwde.de/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</guid>
+      <guid>https://charlottemertz.github.io/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</guid>
       <description>Eine Fortsetzungsgeschichte</description>
     </item>
     
