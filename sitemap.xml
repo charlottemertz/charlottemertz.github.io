@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://charlottemertz.github.io/posts/2019/</loc>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://charlottemertz.github.io/posts/2018/running/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -25,28 +32,16 @@
   
   <url>
     <loc>https://charlottemertz.github.io/categories/bilder/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://charlottemertz.github.io/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://charlottemertz.github.io/series/der-sch%C3%B6ne-und-das-biest/der-sch%C3%B6ne-und-das-biest/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://charlottemertz.github.io/series/east-side-story/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -64,7 +59,7 @@
   
   <url>
     <loc>https://charlottemertz.github.io/categories/</loc>
-    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -90,7 +85,7 @@
   
   <url>
     <loc>https://charlottemertz.github.io/posts/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -99,12 +94,6 @@
     <loc>https://charlottemertz.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://charlottemertz.github.io/series/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
   <url>
