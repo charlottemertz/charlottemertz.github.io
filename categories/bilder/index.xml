@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bilder on Charlotte Mertz</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Bilder on Charlotte Mertz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://charlottemertz.github.io/categories/bilder/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://charlottemertz.github.io/categories/bilder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Inner Child</title>
       <link>https://charlottemertz.github.io/posts/2019/child/</link>
@@ -30,8 +26,7 @@ I&#39;ll try.</description>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://charlottemertz.github.io/posts/2018/sommer/</guid>
-      <description>&lt;p&gt;Dies ist ein kleiner fotografischer Ausschnitt vergangener Sommergefühle:
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dies ist ein kleiner fotografischer Ausschnitt vergangener Sommergefühle:&lt;/p&gt;</description>
     </item>
     
   </channel>

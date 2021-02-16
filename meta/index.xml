@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Charlotte Mertz</title>
     <link>https://charlottemertz.github.io/meta/</link>
     <description>Recent content in Meta on Charlotte Mertz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    
-	<atom:link href="https://charlottemertz.github.io/meta/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de</language><atom:link href="https://charlottemertz.github.io/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum und Datenschutzerklärung</title>
       <link>https://charlottemertz.github.io/meta/impressum/</link>
@@ -30,9 +26,7 @@ Haftungsausschluss Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://charlottemertz.github.io/meta/search/</guid>
-      <description> Suchanfrage: Suchergebnisse   Bitte aktiviere JavaScript, um die Suche nutzen zu können!  ${title} ${ isset subtitle }
-${subtitle}${ end } ${ isset categories }
-${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
+      <description> Suchanfrage: Suchergebnisse   Bitte aktiviere JavaScript, um die Suche nutzen zu können!  ${title} ${ isset subtitle }${subtitle}${ end } ${ isset categories }${categories}${ end } ${ isset series } &amp;middot; ${series}${ end } ${snippet}
   </description>
     </item>
     
@@ -45,23 +39,14 @@ ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
       <description>&lt;blockquote&gt;
 &lt;p&gt;Diese Seite ist, wie das Theme selbst, Work in Progress!&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;Das Theme basiert auf &lt;a href=&#34;https://github.com/spf13/hyde&#34; target=&#34;_blank&#34;&gt;Hyde&lt;/a&gt; von &lt;a href=&#34;https://github.com/mdo&#34; target=&#34;_blank&#34;&gt;Mark Otto&lt;/a&gt;, das von &lt;a href=&#34;https://github.com/spf13&#34; target=&#34;_blank&#34;&gt;Steve Francia&lt;/a&gt; für &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; portiert und von mir unter der Haube stark angepasst und umstrukturiert wurde, um neue Features von Hugo zu implementieren.&lt;/p&gt;
-
+&lt;p&gt;Das Theme basiert auf &lt;a href=&#34;https://github.com/spf13/hyde&#34;&gt;Hyde&lt;/a&gt; von &lt;a href=&#34;https://github.com/mdo&#34;&gt;Mark Otto&lt;/a&gt;, das von &lt;a href=&#34;https://github.com/spf13&#34;&gt;Steve Francia&lt;/a&gt; für &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; portiert und von mir unter der Haube stark angepasst und umstrukturiert wurde, um neue Features von Hugo zu implementieren.&lt;/p&gt;
 &lt;h1 id=&#34;konfiguration&#34;&gt;Konfiguration&lt;/h1&gt;
-
 &lt;h2 id=&#34;farbschema&#34;&gt;Farbschema&lt;/h2&gt;
-
 &lt;p&gt;Wichtigster Anpassungspunkt für das Theme ist das verwendete Farbschema. Es kann in &lt;code&gt;config.toml&lt;/code&gt; gesetzt werden und die folgenden Werte annehmen:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;color.png&#34; alt=&#34;theme-base-08, theme-base-09, theme-base-0a, theme-base-0b, theme-base-0c, theme-base-0d, theme-base-0e, theme-base-0f&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Die Farbwerte folgen dabei &lt;a href=&#34;https://github.com/chriskempson/base16&#34; target=&#34;_blank&#34;&gt;base16&lt;/a&gt;, das auch für das Sourcecode-Highlighting als &lt;a href=&#34;https://github.com/idleberg/base16-pygments/blob/master/css/base16-default.light.css&#34; target=&#34;_blank&#34;&gt;Stylesheet&lt;/a&gt; verwendet wird.&lt;/p&gt;
-
-&lt;h2 id=&#34;config-toml&#34;&gt;config.toml&lt;/h2&gt;
-
+&lt;p&gt;&lt;img src=&#34;color.png&#34; alt=&#34;theme-base-08, theme-base-09, theme-base-0a, theme-base-0b, theme-base-0c, theme-base-0d, theme-base-0e, theme-base-0f&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Die Farbwerte folgen dabei &lt;a href=&#34;https://github.com/chriskempson/base16&#34;&gt;base16&lt;/a&gt;, das auch für das Sourcecode-Highlighting als &lt;a href=&#34;https://github.com/idleberg/base16-pygments/blob/master/css/base16-default.light.css&#34;&gt;Stylesheet&lt;/a&gt; verwendet wird.&lt;/p&gt;
+&lt;h2 id=&#34;configtoml&#34;&gt;config.toml&lt;/h2&gt;
 &lt;p&gt;In der &lt;code&gt;config.toml&lt;/code&gt;-Datei können neben den Standard-Eigenschaften wie etwa dem Titel folgende Eigenschaften festgelegt werden:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;theme&lt;/code&gt;: Theme-Farbe (siehe oben). Wirkt sich auf CSS, Farb-Meta-Tag und Cookie-Consent Farbgebung aus.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;description&lt;/code&gt;: Wird in der Seitenleiste unter dem Titel angezeigt.&lt;/li&gt;
@@ -69,38 +54,33 @@ ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
 &lt;li&gt;&lt;code&gt;cookieConsent&lt;/code&gt;: Auf &lt;code&gt;true&lt;/code&gt; setzen, um Cookie-Meldung zu aktivieren. Mit &lt;code&gt;cookieConsentPolicyLink&lt;/code&gt; kann der Link konfiguriert werden.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;piwik&lt;/code&gt;: Auf &lt;code&gt;true&lt;/code&gt; setzen, um Piwik/Matomo zu aktivieren. Mit &lt;code&gt;piwikBaseUrl&lt;/code&gt; und &lt;code&gt;piwikSiteId&lt;/code&gt; kann die Einbindung konfiguriert werden.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Außerdem verwendet das Theme „Related Content“ und ein über &lt;code&gt;menu.main&lt;/code&gt; konfigurierbares Hauptmenü.&lt;/p&gt;
-
 &lt;p&gt;Übersetzung ist zum jetzigen Zeitpunkt nicht integriert.&lt;/p&gt;
-
 &lt;h1 id=&#34;frontmatter&#34;&gt;Frontmatter&lt;/h1&gt;
-
 &lt;p&gt;Das folgende Beispiel zeigt ein YAML Frontmatter&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;title&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;„Make America Great Again“&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;subtitle&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Über die Wahlen in den USA – East Side Story, Teil 3&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;date&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;2016-11-05&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;summary&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;categories&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Politik und Gesellschaft&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;series&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;East Side Story&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;neologismus&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;16-10&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;resources&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;-&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;src&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;trump.jpg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;name&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;header&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;params&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;title&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Bild Trump&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;link&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.flickr.com/photos/nathancongleton/26535826426/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;author&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Nathan Congleton&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;license&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;by-nc-sa 2.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;-&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;src&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;hillary.jpg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;params&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;title&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Bild Clinton&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;link&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.flickr.com/photos/number7cloud/25664027770/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;author&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Lorie Shaull&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;license&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;by-nc-sa 2.0&amp;#34;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Das zusätzliche, optionale Feld &lt;code&gt;subtitle&lt;/code&gt; wird als Untertitel dargestellt. Sowohl &lt;code&gt;categories&lt;/code&gt; als auch &lt;code&gt;series&lt;/code&gt; können jeweils bis zu einen Wert beinhalten. Das Feld &lt;code&gt;neologismus&lt;/code&gt; beinhaltet den Code der Ausgabe des Neologismus, in dem der Artikel veröffentlicht wurde. Dieser Link wird unter dem Artikel dargestellt, gemeinsam mit dem &lt;code&gt;endmatterText&lt;/code&gt; und den automatisch erstellten Copyright-Angaben zu den Bildern innerhalb der &lt;code&gt;resources&lt;/code&gt; (aktuell werden nur CC-Lizenzen unterstützt). Das (optionale) Bild &lt;code&gt;name: header&lt;/code&gt; wird automatisch als Hero-Bild des Beitrags verwendet.&lt;/p&gt;
-
-&lt;p&gt;Wird der Parameter &lt;code&gt;summary&lt;/code&gt; auf &lt;code&gt;true&lt;/code&gt; gesetzt, wird auf der Startseite nur die Zusammenfassung der Seite angezeigt, die entweder automatisch generiert wird oder manuell definiert wird, indem der Artikel &lt;code&gt;&lt;/code&gt; verwendet. Ansonsten wird der volle Artikel dargestellt. Dieses Verhalten wurde gewählt, weil die automatisch generierten Zusammenfassungen von Hugo in der Regel schlecht sind.&lt;/p&gt;</description>
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;„Make America Great Again“&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;subtitle&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Über die Wahlen in den USA – East Side Story, Teil 3&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;date&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;2016-11-05&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;categories&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Politik und Gesellschaft&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;series&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;East Side Story&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;neologismus&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;16-10&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;resources&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;src &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;trump.jpg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;name &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;header&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Bild Trump&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.flickr.com/photos/nathancongleton/26535826426/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Nathan Congleton&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;license&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;by-nc-sa 2.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;hillary.jpg&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Bild Clinton&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;link&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;https://www.flickr.com/photos/number7cloud/25664027770/&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;author&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Lorie Shaull&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;license&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;by-nc-sa 2.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Das zusätzliche, optionale Feld &lt;code&gt;subtitle&lt;/code&gt; wird als Untertitel dargestellt. Sowohl &lt;code&gt;categories&lt;/code&gt; als auch &lt;code&gt;series&lt;/code&gt; können jeweils bis zu einen Wert beinhalten. Das Feld &lt;code&gt;neologismus&lt;/code&gt; beinhaltet den Code der Ausgabe des Neologismus, in dem der Artikel veröffentlicht wurde. Dieser Link wird unter dem Artikel dargestellt, gemeinsam mit dem &lt;code&gt;endmatterText&lt;/code&gt; und den automatisch erstellten Copyright-Angaben zu den Bildern innerhalb der &lt;code&gt;resources&lt;/code&gt; (aktuell werden nur CC-Lizenzen unterstützt). Das (optionale) Bild &lt;code&gt;name: header&lt;/code&gt; wird automatisch als Hero-Bild des Beitrags verwendet.&lt;/p&gt;
+&lt;p&gt;Wird der Parameter &lt;code&gt;summary&lt;/code&gt; auf &lt;code&gt;true&lt;/code&gt; gesetzt, wird auf der Startseite nur die Zusammenfassung der Seite angezeigt, die entweder automatisch generiert wird oder manuell definiert wird, indem der Artikel `&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -109,10 +89,10 @@ ${categories}${ end } ${ isset series }&amp;middot; ${series}${ end } ${snippet}
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://charlottemertz.github.io/meta/about/</guid>
-      <description>Charlotte Mertz Köln Studentin Studentische Hilfskraft beim WDR  
+      <description>Charlotte Mertz Studentin Heidelberg 
 Ausbildung  B.A. Lehramt Musik und Englisch Gym/Ge seit 2016 an der Universität Köln B.A. Lehramt Musik und Englisch GS 2 Semester
 an der Universität Koblenz-Landau, Campus Koblenz Abitur Landesmusikgymnasium Montabaur
-Leistungskurse Musik, Biologie und Französisch  Projekte  Chorleitung Seit Ende des Jahres 2018 darf ich den Kölner Küchenchor leiten. Wir sind ein Chor mit Spaß am Singen und proben wöchentlich in einem Wohnzimmer in Ehrenfeld.</description>
+Leistungskurse Musik, Biologie und Französisch  Projekte  CdE-Akademien Der Club der Ehemaligen der Deutschen SchülerAkademien e.V. richtet mehrfach im Jahr sogenannte Akademien aus, die ich äußerst gerne als (Co-)Kursleiterin, Mitorganisatorin oder Teilnehmerin besuche. Von mir geleitete Kurse umfassen unter anderem Themen wie Musiktheorie, das Musizieren mit Alltagsgegenständen oder Singen und Stimmbildung für Anfänger.</description>
     </item>
     
   </channel>

@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Hugo 0.50" />
+  <meta name="generator" content="Hugo 0.80.0" />
   <meta name="author" content="Lukas Heimann">
 
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <link rel="stylesheet" href="https://charlottemertz.github.io/style.main.min.css">
+  <link rel="stylesheet" href="https://charlottemertz.github.io/style.main.min.6cef5f388173c1796a13a81e3bd2cc7a3d2622a2fa809a8378b76d3c945eaa34.css">
 
   <meta name="theme-color" content="#ac4142">
   <meta name="apple-mobile-web-app-status-bar-style" content="translucent">
@@ -70,7 +70,7 @@
       
     </ul>
 
-    <p class="impressum"><a href="https://charlottemertz.github.io/meta/impressum/">Charlotte Mertz, 2019</a></p>
+    <p class="impressum"><a href="https://charlottemertz.github.io/meta/impressum/">Charlotte Mertz, 2021</a></p>
   </div>
 </div>
 
@@ -78,12 +78,7 @@
     <div class="content container">
         
   <article class="post">
-    
-
-
-<div class="post-image"><img src="/posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_720x320_fill_q75_box_smart1.jpg" srcset="/posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_720x320_fill_q75_box_smart1.jpg 1x, /posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_1440x640_fill_q75_box_smart1.jpg 2x"></div>
-
-<h1 class="post-title">
+    <div class="post-image"><img src="/posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_720x320_fill_q75_box_smart1.jpg" srcset="/posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_720x320_fill_q75_box_smart1.jpg 1x, /posts/2018/running/bild_hu4c7b41b0fdd3c4a804d13d97a8ff01bf_2318158_1440x640_fill_q75_box_smart1.jpg 2x"></div><h1 class="post-title">
   <a href="https://charlottemertz.github.io/posts/2018/running/">
     Vocal Arrangement und Vocal Recording
   </a>
@@ -101,18 +96,14 @@
    &middot; 1 min 
 </span>
 
-    <p>Im Wintersemester 2017/18 belegte ich die kombinierten Seminare „Vocal Arrangement“ und „Vocal Recording“.
+    <p>Im Wintersemester 2017/18 belegte ich die kombinierten Seminare „Vocal Arrangement“ und „Vocal Recording“. 
 Aufgabe war es, ein Stück unserer Wahl für ein Vokalensemble zu arrangieren, es mit diesem einzuüben und letztlich
-aufzunehmen.
-</p>
-
-<p>Ich wählte Kate Bushs „Running Up That Hill“. Das Original findet sich
-<a href="https://www.youtube.com/watch?v=wp43OdtAAkM" target="_blank">hier</a>.</p>
-
+aufzunehmen.</p>
+<p>Ich wählte Kate Bushs „Running Up That Hill“. Das Original findet sich 
+<a href="https://www.youtube.com/watch?v=wp43OdtAAkM">hier</a>.</p>
 <p>Meine Bearbeitung und auch die Aufnahme sind bei weitem nicht perfekt, aber dennoch teile ich gerne dieses Resultat mit Euch:
 <br>
 <br></p>
-
 <figure>
     <figcaption>Running Up That Hill von Kate Bush (Arrangement: Charlotte Mertz)</figcaption>
     <audio
@@ -122,7 +113,6 @@ aufzunehmen.
             <code>audio</code> element.
     </audio>
 </figure>
-
 <p>Vielen Dank allen Sängerinnen und Sängern, die mir bei diesem Projekt geholfen haben!</p>
     
 
@@ -164,7 +154,7 @@ aufzunehmen.
             <span>
                 <a href="https://charlottemertz.github.io/posts/2018/sommer/">Sommer</a>
                 
-                <br><span class="meta"><time>30.11.2018</time> &middot; 1 min </span>
+                <span class="meta"><time>30.11.2018</time> &middot; 1 min </span>
             </span>
         </li>
         
@@ -187,26 +177,52 @@ if (!doNotTrack) {
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <script defer src="https://charlottemertz.github.io/js/cookieconsent.min.js"></script>
 <script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#edeff5",
-      "text": "#838391"
+window.addEventListener("load", function() {
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#edeff5",
+        "text": "#838391"
+      },
+      "button": {
+        "background": "#ac4142",
+        "text": "#ffffff"
+      }
     },
-    "button": {
-      "background": "#ac4142",
-      "text": "#ffffff"
+    "theme": "edgeless",
+    "type": "opt-in",
+    onStatusChange: function(status) {
+      if (this.hasConsented()) {
+        _paq.push(['rememberConsentGiven']);
+      } else {
+        _paq.push(['forgetConsentGiven']);
+      }
+    },
+    "content": {
+      "message": "Diese Website speichert Cookies und überträgt anonymisierte Daten u.a. zur Reichweitenmessung an Dritte.",
+      "allow": "OK",
+      "deny": "Ablehnen",
+      "policy": "Tracking",
+      "link": "Mehr Informationen",
+      "href": "https:\/\/charlottemertz.github.io\/meta\/impressum#datenschutzerklärung"
     }
-  },
-  "theme": "edgeless",
-  "content": {
-    "message": "Diese Website speichert Cookies und überträgt anonymisierte Daten u.a. zur Reichweitenmessung an Dritte.",
-    "dismiss": "OK",
-    "link": "Mehr Informationen",
-    "href": "https:\/\/charlottemertz.github.io\/meta\/impressum#datenschutzerklärung"
+  });
+
+  
+  const revokeButton = document.getElementsByClassName("cc-revoke")[0];
+  if (!revokeButton.classList.contains("cc-animate")) {
+    let prevScrollPos = window.pageYOffset;
+    window.addEventListener("scroll", function() {
+      let currentScrollPos = window.pageYOffset;
+      if (prevScrollPos > currentScrollPos) {
+        revokeButton.classList.remove("cc-animate");
+      } else {
+        revokeButton.classList.add("cc-animate");
+      }
+      prevScrollPos = currentScrollPos;
+    }, { passive: true });
   }
-})});
+});
 </script>
 </body>
 </body>

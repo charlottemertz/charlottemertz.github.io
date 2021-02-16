@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hören on Charlotte Mertz</title>
@@ -6,22 +6,17 @@
     <description>Recent content in Hören on Charlotte Mertz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://charlottemertz.github.io/categories/h%C3%B6ren/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://charlottemertz.github.io/categories/h%C3%B6ren/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Radio</title>
       <link>https://charlottemertz.github.io/posts/2019/radio/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://charlottemertz.github.io/posts/2019/radio/</guid>
-      <description>&lt;p&gt;Seit einiger Zeit darf ich nun für das &lt;a href=&#34;https://www.studioeck.de/&#34; target=&#34;_blank&#34;&gt;Radio Studioeck&lt;/a&gt; Beiträge gestalten. Die Themen
-sind abwechslungsreich und bieten mir oft die Gelegenheit, selbst etwas Neues zu lernen und mich mit
-unterschiedlichen Menschen zu unterhalten. Auf dieser Seite möchte ich gerne ein paar dieser Beiträge
-zum Anhören zur Verfügung stellen.&lt;br /&gt;
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Einige Zeit lang durfte ich für das &lt;a href=&#34;https://www.studioeck.de/&#34;&gt;Radio Studioeck&lt;/a&gt; Beiträge gestalten. Die Themen 
+sind abwechslungsreich und bieten mir oft die Gelegenheit, selbst etwas Neues zu lernen und mich mit 
+unterschiedlichen Menschen zu unterhalten. Auf dieser Seite möchte ich gerne ein paar dieser Beiträge 
+zum Anhören zur Verfügung stellen.&lt;/p&gt;</description>
     </item>
     
   </channel>
