@@ -85,12 +85,6 @@
   </url>
   
   <url>
-    <loc>https://charlottemertz.github.io/service/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://charlottemertz.github.io/meta/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
